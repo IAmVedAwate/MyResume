@@ -229,6 +229,3 @@ def graphs():
     bar_chart_url2 = url_for('static', filename='bar_chart2.png')
 
     return render_template('graph.html', bar_chart_url=bar_chart_url,bar_chart_url2=bar_chart_url2)
-
-if __name__ == '__main__':
-    app.run(debug=True)
