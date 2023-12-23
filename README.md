@@ -1,3 +1,2 @@
-# MyResume
 # SmartIndiaHackathon
 # SmartIndiaHackathon
